@@ -13,3 +13,25 @@ Ao longo deste estudo, abordaremos conceitos teóricos, implementações prátic
 * Implementar árvores binárias de busca (BST) e explorar seus algoritmos principais (inserção, remoção e busca).
 * Desenvolver habilidades de programação com implementação prática das estruturas em Python.
 
+# Orientação de Estudo
+
+## 1. Listas Encadeadas
+* Conceito e definição
+* mplementação de listas encadeadas simples
+* Implementação de listas duplamente encadeadas
+* Implementação de listas circulares
+* Exercícios práticos
+
+## 2. Listas Ordenadas
+* Diferença entre listas comuns e ordenadas
+* Implementação de listas ordenadas
+* Algoritmos de inserção e remoção em listas ordenadas
+* Benefícios da ordenação para busca
+* Exercícios práticos
+
+## 3. Árvores Binárias
+* Definição e conceitos básicos
+* Implementação de árvores binárias de busca (BST)
+* Algoritmos de busca, inserção e remoção
+* Percursos em árvores (in-ordem, pré-ordem e pós-ordem)
+* Exercícios práticos
