@@ -60,6 +60,8 @@ Referencias:
 
 !https://www.professorisidro.com.br/curso/estruturas-de-dados/
 
+!https://www.ev.org.br/cursos/Desenvolvendo-um-Projeto-Completo-Python-com-Estruturas-de-Dados
+
 
 
 
