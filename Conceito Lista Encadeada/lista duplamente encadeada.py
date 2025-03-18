@@ -46,7 +46,7 @@ for v in valores:
 # Exibindo a lista na ordem normal
 print("Lista na ordem normal:")
 lista.exibir()  # Saída: 1 <-> 2 <-> 3 <-> 4 <-> 5 <-> None
-
+#
 # Exibindo a lista na ordem reversa
 print("Lista na ordem reversa:")
 lista.exibir_reverso()  # Saída: 5 <-> 4 <-> 3 <-> 2 <-> 1 <-> None
