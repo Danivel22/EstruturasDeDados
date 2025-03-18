@@ -35,3 +35,9 @@ Ao longo deste estudo, abordaremos conceitos teóricos, implementações prátic
 * Algoritmos de busca, inserção e remoção
 * Percursos em árvores (in-ordem, pré-ordem e pós-ordem)
 * Exercícios práticos
+
+Referencias: 
+
+!https://www.professorisidro.com.br/curso/estruturas-de-dados/
+
+!https://www.ev.org.br/cursos/Desenvolvendo-um-Projeto-Completo-Python-com-Estruturas-de-Dados
