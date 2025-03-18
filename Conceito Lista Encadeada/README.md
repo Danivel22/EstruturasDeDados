@@ -56,11 +56,7 @@ Saída:
 
 ![Sem título](https://github.com/user-attachments/assets/bc1858a1-0ae0-42bc-af50-d881cfa29d6d)
 
-Referencias: 
 
-!https://www.professorisidro.com.br/curso/estruturas-de-dados/
-
-!https://www.ev.org.br/cursos/Desenvolvendo-um-Projeto-Completo-Python-com-Estruturas-de-Dados
 
 
 
